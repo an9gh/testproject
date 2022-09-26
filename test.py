@@ -1,2 +1,3 @@
 print("Hello World")
-print("TestBranch(new branch)")
+print("TestBranch")
+print("Cloning")
